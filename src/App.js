@@ -16,14 +16,12 @@ function App() {
         <div className='fila'>
           <Boton>1</Boton>
           <Boton>+</Boton>
-          <Boton>2</Boton>
-          <Boton>4</Boton>
+
         </div>
         <div className='fila'>
           <Boton>1</Boton>
           <Boton>+</Boton>
-          <Boton>2</Boton>
-          <Boton>4</Boton>
+
         </div>
         <div className='fila'></div>
         <div className='fila'></div>
